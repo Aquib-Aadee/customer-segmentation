@@ -1,0 +1,15 @@
+# Virtual Environments
+venv/
+env/
+.env
+
+# Python Cache (Junk files Python creates automatically)
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data and Models (Keep out of version control)
+data/
+models/
